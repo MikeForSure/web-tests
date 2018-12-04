@@ -10,7 +10,7 @@
         <?php echo("PHP:> Das ist ein Test"); ?> <br/>
         <i>Und aus...</i>
         <br><br>
-        <a href="javascript:getNumbers()">Klick mich</a>
+        <button id="btnClickMe" type="button">Klick mich</button>
         <div id="resultarea">
             Resultss<br>
         </div>
